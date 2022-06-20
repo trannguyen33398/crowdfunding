@@ -28,4 +28,4 @@ cargo build
 cargo run
 ```
 
-#### Service to Service Communication - (RabbitMQ)[https://larionov.pro/en/articles/2019/msa-rabbitmq-why/]
+#### Service to Service Communication - [RabbitMQ](https://larionov.pro/en/articles/2019/msa-rabbitmq-why/)
